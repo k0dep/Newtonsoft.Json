@@ -1,0 +1,16 @@
+{
+  "name": "newtonsoft.json",
+  "displayName": "Newtonsoft.Json",
+  "version": "8.0.3",
+  "description": "Json serialization, forked from https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0dep/Newtonsoft.Json.git"
+  },
+  "author": "Stanislav Petrov <sv.petrov@kodep.pro>",
+  "license": "See https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347",
+  "bugs": {
+    "url": "https://github.com/k0dep/Newtonsoft.Json/issues"
+  },
+  "homepage": "https://github.com/k0dep/Newtonsoft.Json#readme"
+}
