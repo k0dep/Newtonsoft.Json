@@ -8,7 +8,7 @@ Binaries copied from [JSON .NET For Unity asset](https://assetstore.unity.com/pa
 Using
 -----
 
-For start using this package add lines into `./Packages/manifest.json` like next sample:  
+To start using this package add lines into `./Packages/manifest.json` like next sample:  
 ```json
 {
   "dependencies": {
